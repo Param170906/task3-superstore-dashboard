@@ -79,6 +79,7 @@ Design an interactive dashboard using Power BI that helps business stakeholders 
 **Name: Parampreet Singh Ahluwalia
 **Internship: Data Analyst – Elevate Labs  
 **Date: 26 June 2025
+[LinkedIn Profile](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/)
 
 ---
 
